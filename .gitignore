@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Additional MSVC build files
+*.exp
+*.pdb
+*.ilk
+
+# Local editor settings and build directories
+.vscode/
+.vs/
+build/
+Debug/
+Release/
