@@ -1,0 +1,50 @@
+C++ Practice Progress — Before Pointers
+=====================================
+
+01_Basics
+[ ] 01 Hello Output
+[ ] 02 Variables/Data Types
+[ ] 03 String
+[ ] 04 Integer Division
+[ ] 05 User Input
+[ ] 06 String Input
+[ ] 07 Simple Calculator
+
+02_Arrays_Functions
+[ ] 08 Array Indexing
+[ ] 09 Image Dimensions
+[ ] 10 void Function
+[ ] 11 Function Parameters
+[ ] 12 Return Function
+[ ] 13 Function Prototype
+
+03_Conditions
+[ ] 14 if/else Confidence
+[ ] 15 Logical Operators
+[ ] 16 Max of Three
+[ ] 17 Better Calculator
+[ ] 18 switch Camera Mode
+[ ] 19 Debug Condition Bug
+
+04_Loops_2DArray
+[ ] 20 while
+[ ] 21 do while
+[ ] 22 Guessing Game
+[ ] 23 for + Array Average
+[ ] 24 Exponent
+[ ] 25 2D Array
+[ ] 26 Nested Loops
+
+05_CV_Mini_Challenges
+[ ] 27 Keypoint Validator
+[ ] 28 Confidence Analysis
+[ ] 29 Frame x Keypoint Grid
+[ ] 30 Bounding Box Checker
+
+06_Checkpoint_Tests
+[ ] TEST 1 Core Basics
+[ ] TEST 2 Arrays + Loops + Conditions
+[ ] TEST 3 Mini CV Console App
+
+下一階段：
+Pointers（尚未開始，不在本練習包範圍）
